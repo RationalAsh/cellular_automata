@@ -1,3 +1,7 @@
 This is an opencv implementation of John Conway's Game of Life.
 
-Right now this is just a copy of my opencv graph search program. I will get back to this soon.
+It now works!
+
+Run the program, and use your mouse to draw a pattern in the grid.
+
+Press the s key on your keyboard to start the simulation.
